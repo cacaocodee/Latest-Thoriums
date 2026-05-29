@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "notes": "Add Telegram /system command (CPU, RAM, storage), download complete notifications, performance optimizations (RwLock, dynamic ticker, React.memo).",
+  "version": "0.2.20",
+  "notes": "Add Telegram .torrent file upload support — send a .torrent file to the bot to start downloading.",
   "pub_date": "2026-05-29T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVk15Nkl3S3FvdmxKcyszNkw1VThDOFhRUDVmaENKOGNSZk1LM2htR0IxVzBXeW00OGZWeDRHUU81RnUxSEJoTURGTThkTnUvcHljdWlZWC9Dc3ZtZUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDMxMTMwCWZpbGU6VGhvcml1bXMuYXBwLnRhci5nego2dmVHb2dHSmxmejlQVTRGcDVzUjc2alRzNFN0RDVadlhNamYwaU00c1BLWnJQY09iNWIzTzZMWGVpSEQvS0FZcmRpbjhnalpzd2E3aEk2MzRreUtDUT09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.19/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkg1dlkxVFk3ZlRneTg3Nk1IeWxjR093emdJaFQyeWlLb2F1ay9ORnN4enFMdUJXOGtkcUZDY0gyNEFEY1ZBNjBlUWkwdHJYSUhSeUR6YUJtZmM3S2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDMxOTc2CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp2OEVKTVdza2xNOWQwWkVZYWlEUitLdWlCNnhDVTRzaW1ySFoxR1V0UUczZ1NISURwS3M5b3VaK0w4ejlsbk5IY3BqMm02aW11ZXJPcCtoSE5IRENDUT09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.20/Thoriums.app.tar.gz"
     }
   }
 }
