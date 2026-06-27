@@ -1,11 +1,11 @@
 {
-  "version": "0.2.20",
-  "notes": "Add Telegram .torrent file upload support — send a .torrent file to the bot to start downloading.",
-  "pub_date": "2026-05-29T00:00:00Z",
+  "version": "0.2.22",
+  "notes": "Faster torrents: enable DHT + UPnP for far better peer discovery on public torrents (private trackers unaffected). Show live peer counts. Auto-resume interrupted downloads on startup. Loading screen while storage initializes.",
+  "pub_date": "2026-06-27T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkg1dlkxVFk3ZlRneTg3Nk1IeWxjR093emdJaFQyeWlLb2F1ay9ORnN4enFMdUJXOGtkcUZDY0gyNEFEY1ZBNjBlUWkwdHJYSUhSeUR6YUJtZmM3S2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDMxOTc2CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp2OEVKTVdza2xNOWQwWkVZYWlEUitLdWlCNnhDVTRzaW1ySFoxR1V0UUczZ1NISURwS3M5b3VaK0w4ejlsbk5IY3BqMm02aW11ZXJPcCtoSE5IRENDUT09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.20/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkZjWk11bEo0UmZmT1dkWDlKQ1c4blFka0RKdzkyYUhJSzBxNUdDQ1pid05uTlJGb3VDc3lhL1JLRVFsWUhGck1FRHU4b2F3RGZueXNPeDgweG0xSUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTQ0MzA1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negplY2xiNnlIS3VxM3ZUVk5ycml1WnNORjVpSmlKOWtXd3UvY0NNNE5CMWZZSGgxZ1lhS1ExTUYvYmNlRFZwQ3dWK08zVWkzQU4zVWhuWExseXE2WlhEdz09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.22/Thoriums.app.tar.gz"
     }
   }
 }
