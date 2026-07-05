@@ -1,11 +1,11 @@
 {
-  "version": "0.2.25",
-  "notes": "Redesigned toolbar: compact icon actions that always fit on a single row, with tooltips, cleaner grouping, and a red destructive hover on the clear buttons. Window minimum width raised to 900px.",
-  "pub_date": "2026-07-04T00:00:00Z",
+  "version": "0.2.26",
+  "notes": "Fix torrents showing a high phantom download speed with 0 peers during the initial checksum pass. The status now reads \"Checking\" with progress % instead of \"Downloading\" while verifying on-disk data.",
+  "pub_date": "2026-07-05T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkVrcEh1TCthMTY5c2Z5S1JBckJUM2pmdUI5VjI0aVZmckNxTWdiQVpUV1FIMXdkOG5PLzZxNDJrSHhvQ2lGbUZYUEk3Mm05L3lQK0ZLd2VMbDFQWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDc5NDg2CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp4RWxmOGFjeUNHTEttQldSQWlBSlV3VFJ2a01Yd1E1dkM2czlJRTBWL3RXMkdjTHR0U3FIL0gyYVZMZXZGR1NWbEd4Z05yT291VTlCbmN0VWt0L2NEUT09Cg==",
-      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.25/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkw2cGRkbm9WOU80WWVFcDh1ajlOK1JEZWV6a0w0T2g3UUFoSHA2SzI2enY4TXhnR1QrblhhK2RmTG1DV3NuQzlnNEpUbG85NjVjZ2hEL3BoSFJ4SFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjE2NDQzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negp4N3dzQmV3dC9WNXVpdG95Z0VMTFVveVFMN3oyb0wwdllGWW5CWTNBNy93NWdZdTloTUdlRnR0UzdraS9RUjJjL1FuYnVWR004K1dMb0lOUHB4S05Bdz09Cg==",
+      "url": "https://github.com/cacaocodee/Latest-Thoriums/releases/download/v0.2.26/Thoriums.app.tar.gz"
     }
   }
 }
