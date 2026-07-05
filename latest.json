@@ -1,11 +1,11 @@
 {
-  "version": "0.2.33",
-  "notes": "Added \"Make Default Torrent/Magnet App\" to the Thoriums menu (above Check for Updates).",
+  "version": "0.2.34",
+  "notes": "Fix torrent progress being lost across restarts: downloaded data is now fsynced to disk every 32 MiB and on pause, and quitting the app flushes torrent state gracefully so the next launch resumes instead of re-downloading.",
   "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkRKbnEvMzdYandxU045MyswRkpoZXpnZUo4QVo5OEcyRXF5c2pUUWIvM2UzbVZsVDNCVU1lYTZDczBLTXpvRDRTZ3FIN2JMdGUwMnFzM3Q2WlN6d2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg0MzU3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpVaW9HNjFQZWtrZFQ3T2tPRjE0dHphUmVaMjhIVytIcnFkcGlwNm9NOHB3SCthWENmR2ZwU3ZHN1doRlhCQm9OMXZkaUVzZzFXeUZOcE5qT2o0aGxBUT09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.33/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkt3bEJnMTM5YUJkdnpFVUw1N1BBaUVzWGFkM0Q4S3BhckJSUFplYkU2VVBwVkhsd0srdHhaZkZ4aVAxRUs3ZDU1cXV6U0F1clJYV0dDdUVqRkxNTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg1MzEyCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negowdjhUb1pGZ3o5WStPZ01WcDVIYXpLU013UzZ6UXZjZU16a1VyRzYrUHIxMW5kWXNoZ3d5MWlYTTZQYjVHMW1uVW5uc3F4clRxVXVLOENEZVdyWW1DUT09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.34/Thoriums.app.tar.gz"
     }
   }
 }
