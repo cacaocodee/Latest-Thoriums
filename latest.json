@@ -1,11 +1,11 @@
 {
-  "version": "0.2.31",
-  "notes": "The new Mjolnir icon now also appears in the About panel and the app loading screen.",
+  "version": "0.2.32",
+  "notes": "Open .torrent files and magnet links directly in Thoriums: set it as the default handler from Settings, and drag .torrent files onto the window to start downloading.",
   "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVktSTnpFaGY5WTZ1OXhBSmtDTnlESlk3SnoxNFVmOW9lN01kc2RsZU5wdGJpdlQwYit4aXR6N0RGaEt4bUczczQrNWJuMjBKSnNxZ1VXK0pnZ2NoNUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjgxMDI1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5nego2aUxlOHROMzRIenQwdFl0ZmgvdzdoMDA0U1A5aStOWmJwQmluSnVnRnF1R1RQTWFlb3BpMWpMb1N0OE1NTWlWdXp5QXpCN2NLS09ENmRzY1h2c1ZBUT09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.31/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkFPMHFmcUx2em91dm9jc2RKaURhTEttVExHNkFUT2V2YmlpSGlWSXh3R3hhYTZnWVVLbFBQUzIyQzcweERldnIrem8zaS81N2FNWVUyRkdVS0hScHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjgzMzQzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpTRjJaNFVxbTJJVi8rVmlyMTFjMTBZR0J6aXh6YWVyWTh0NjE3aEhvZ2N2c012ZUhCSTNUZHIxTkhrTnl3cWJJVXVyaDdlU05VajJuZG40U2N0VzJDQT09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.32/Thoriums.app.tar.gz"
     }
   }
 }
