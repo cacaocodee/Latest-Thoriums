@@ -1,11 +1,11 @@
 {
-  "version": "0.2.30",
-  "notes": "New app icon: a redesigned Mjolnir (Thor's hammer) with a lightning bolt, crisp at all sizes.",
+  "version": "0.2.31",
+  "notes": "The new Mjolnir icon now also appears in the About panel and the app loading screen.",
   "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVlB5KzN5SVVlN1RiRUE3VWV3L1gra1lQdjNxc1BRcGJUajdrY3lFOWN1YWM0dS9EZjZUU3pjc015akVzcTZqVVBNTTR1QjU5UkZsTTQ5VVJhU0tYUVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjYyMTYyCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpJRjBoY1QxRDFBR3RJWkhTdk9HbURzeFpRNjFWSGpsRUhNVURWSmtnVXp5V0lQVnJqYjZqY1dneUtaMHZRd0Mzb0ZYNnBwaXdReVFzR0duRU13YnJDdz09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.30/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVktSTnpFaGY5WTZ1OXhBSmtDTnlESlk3SnoxNFVmOW9lN01kc2RsZU5wdGJpdlQwYit4aXR6N0RGaEt4bUczczQrNWJuMjBKSnNxZ1VXK0pnZ2NoNUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjgxMDI1CWZpbGU6VGhvcml1bXMuYXBwLnRhci5nego2aUxlOHROMzRIenQwdFl0ZmgvdzdoMDA0U1A5aStOWmJwQmluSnVnRnF1R1RQTWFlb3BpMWpMb1N0OE1NTWlWdXp5QXpCN2NLS09ENmRzY1h2c1ZBUT09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.31/Thoriums.app.tar.gz"
     }
   }
 }
