@@ -1,11 +1,11 @@
 {
-  "version": "0.2.32",
-  "notes": "Open .torrent files and magnet links directly in Thoriums: set it as the default handler from Settings, and drag .torrent files onto the window to start downloading.",
+  "version": "0.2.33",
+  "notes": "Added \"Make Default Torrent/Magnet App\" to the Thoriums menu (above Check for Updates).",
   "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkFPMHFmcUx2em91dm9jc2RKaURhTEttVExHNkFUT2V2YmlpSGlWSXh3R3hhYTZnWVVLbFBQUzIyQzcweERldnIrem8zaS81N2FNWVUyRkdVS0hScHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjgzMzQzCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpTRjJaNFVxbTJJVi8rVmlyMTFjMTBZR0J6aXh6YWVyWTh0NjE3aEhvZ2N2c012ZUhCSTNUZHIxTkhrTnl3cWJJVXVyaDdlU05VajJuZG40U2N0VzJDQT09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.32/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkRKbnEvMzdYandxU045MyswRkpoZXpnZUo4QVo5OEcyRXF5c2pUUWIvM2UzbVZsVDNCVU1lYTZDczBLTXpvRDRTZ3FIN2JMdGUwMnFzM3Q2WlN6d2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg0MzU3CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpVaW9HNjFQZWtrZFQ3T2tPRjE0dHphUmVaMjhIVytIcnFkcGlwNm9NOHB3SCthWENmR2ZwU3ZHN1doRlhCQm9OMXZkaUVzZzFXeUZOcE5qT2o0aGxBUT09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.33/Thoriums.app.tar.gz"
     }
   }
 }
