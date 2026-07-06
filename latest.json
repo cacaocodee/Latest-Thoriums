@@ -1,11 +1,11 @@
 {
-  "version": "0.2.35",
-  "notes": "Fix torrents restarting from zero: the download folder for each torrent is now decided once and reused on every run. Resuming reuses the folder librqbit was already writing to, and re-adding a magnet you already have resumes the existing download instead of creating a duplicate folder.",
+  "version": "0.2.36",
+  "notes": "Resuming a torrent now waits 5 seconds before re-attaching, avoiding errors when resuming right after a pause.",
   "pub_date": "2026-07-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVkEwT2JTY2k4Qmx6ZVludktGZnlTeElsdkhKbzdPclg1dkF0NCtORWNGazZMY3JmK3lGVCtjUU4wTzhySHZiMm9GV0dqYjhCRFY1YnUrejdVSXoyWUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzA2MjcxCWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpSNHd0SUxBb3E4ZEVZaWdzdXdzUldlcHFzOXJGTE9kUW5aa2FrMlhlV1FZbE1mYlI2Z201VGRGRGhSTXF5RnIwYnU0akN3dUVZdXdpWWVsa0w5UndBZz09Cg==",
-      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.35/Thoriums.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelNxK1ppbTNhVko2Z2ExZUxFVFROT0dZSDRFZkNoNFhLQUczNi9FUUtOU29KTjNValB5ZEZrY1RlR29IK2F2QzU2T2g4M24zUU5PSnZKZWt2dVlsZy8wN2dXa0pkemdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzA4MjM0CWZpbGU6VGhvcml1bXMuYXBwLnRhci5negpQSjVUVHV4S2NKUWl5Mk9QNHdjRUt4NTU5WVRET3lCN3BWMkFGSHh3Z1VlRkZTLzc5M3R6MjBIblFXaDhpY3ZTSm4rTlhCNzRUSlpJU01raFpTOUZCZz09Cg==",
+      "url": "https://github.com/cacaocodee/Thoriums-Latest/releases/download/v0.2.36/Thoriums.app.tar.gz"
     }
   }
 }
